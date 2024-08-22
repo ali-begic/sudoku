@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>sudoku.ico</file>
+    </qresource>
+</RCC>

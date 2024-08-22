@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/sudoku_solutions">
+        <file>sudoku_solutions.txt</file>
+    </qresource>
+</RCC>
