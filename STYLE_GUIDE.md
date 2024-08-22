@@ -1,4 +1,4 @@
-# Style Guide for Sudoku
+# Style Guide for Sudok
 
 This document outlines the coding style and conventions to follow for the **Sudoku** project. Consistent code style helps improve readability and maintainability.
 
