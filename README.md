@@ -2,8 +2,7 @@
 
 This is a Sudoku game built using the Qt framework. Experience classic Sudoku with a modern twist! Built with Qt, this game offers a clean interface, real-time error detection, and a solution finder to assist with tricky puzzles. User-entered values are highlighted in blue, while mistakes are marked in red for easy correction. Dive into the fun!
 
-![sudoku-capture1](https://github.com/user-attachments/assets/1f019f8e-b2e6-495e-8871-a9cf5bdb3f03)
-![sudoku-capture2](https://github.com/user-attachments/assets/bc558786-4d86-4cbe-900f-3978e5895692)
+![sudoku-capture](https://github.com/user-attachments/assets/d84cd4e1-eaa5-4d06-8819-82425320005c)
 
 ## Key Features
 
