@@ -32,7 +32,7 @@ To build and run the **Sudoku** application from source, the best solution would
      ```
    - Navigate into the cloned directory:
      ```
-     cd grades
+     cd sudoku
      ```
 
 2. **Install Qt Dependencies:**
